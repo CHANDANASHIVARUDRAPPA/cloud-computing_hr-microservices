@@ -23,7 +23,7 @@ MICROSERVICES INTEGRATED:
    - Allows candidates to apply for jobs, upload resumes, and track application status.
    - Flask microservice accessible through its own admin and user dashboards.
 
-5. **Student Hostel Management Microservice** (Borrowed AM014_AM019_AM046_AM900 - Team Number 11)
+5. **Student Hostel Management Microservice** 
    - Handles hostel registrations, room allocations, attendance, mess menu, and housekeeping data.
    - Built with Flask and SQLite, integrated into the main project structure.
 
@@ -35,7 +35,7 @@ GITHUB UPLOAD NOTE:
 
 Due to the large number of files in the project, GitHub was not allowing us to upload the repository directly. To resolve this:
 
-1. We **compressed the entire project into a ZIP file**  
+1. **the entire project is compressed into a ZIP file**  
 2. Uploaded it to the repository  
 3. It can be **downloaded and viewed using the “View Raw” option** on GitHub.
 
